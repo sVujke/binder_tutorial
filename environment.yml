@@ -6,11 +6,11 @@ dependencies:
 - ipykernel=4.8.2=py36_0
 - pandas=0.22.0=py36_0
 - pip=9.0.3=py36_0
-- python=3.6.5=h0c2934d_0
+- python=3.6.5
 - python-dateutil=2.7.2=py36_0
 - setuptools=39.0.1=py36_0
 - tensorflow=1.2.1=py36_0
-- vc=14=h0510ff6_3
+- vc=14
 - vs2015_runtime=14.0.25420=0
 - wheel=0.31.0=py36_0
 - wincertstore=0.2=py36_0
