@@ -55,3 +55,17 @@ conda env export > environment.yml
 ```
 
 After this, we should commit and push our changes.
+
+# Using Binder
+
+All you need is a link to your GitHub repo, and you need to add it to the specified field on https://notebooks.gesis.org/binder/ 
+
+![alt text](https://github.com/sVujke/binder_tutorial/blob/master/images/binder.PNG "Binder form")
+
+![alt text](https://github.com/sVujke/binder_tutorial/blob/master/images/binder2.PNG "Binder building")
+
+I would recommend removing python versions for the libraries as it currently tends to create problems.
+
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/sVujke/binder_tutorial/master)
+
+Launch the notebook!
